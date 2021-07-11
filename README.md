@@ -1,5 +1,6 @@
 ### Hi there 👋👨‍💻🚀
-![carbon](https://user-images.githubusercontent.com/72107810/125206168-561b8200-e24b-11eb-9d04-7d8c55c5ae8d.png)
+![carbon (2)](https://user-images.githubusercontent.com/72107810/125206303-35076100-e24c-11eb-8bc4-42d7a7dd43d4.png)
+
 
 
 <!--
