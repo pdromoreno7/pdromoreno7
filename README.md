@@ -1,6 +1,6 @@
 ### Hi there 👋👨‍💻🚀
-![carbon (2)](https://user-images.githubusercontent.com/72107810/125206354-7b5cc000-e24c-11eb-8ce6-43a2e23280c7.png)
 
+<img width="699" alt="I'm a FronEnd Developer" src="https://user-images.githubusercontent.com/72107810/142729660-82d945e9-54cc-4490-a9ee-d6ba10fd4e3a.png">
 
 
 
@@ -19,3 +19,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+const fronEnd = {
+  nombre: "Pedro Moreno",
+  edad: 25,
+  developmentIn: ["HTML", "CSS", "Sass", "JavaScript", "React.js", "Redux"],
+  studies: [
+    "Platzi",
+    "Sena",
+    "Fundación Universitaria Tecnológico Comfenalco ",
+  ],
+  socialMedia: {
+    twitter: "pdromoreno7",
+    instagram: "pdromoreno7",
+    linkedIn: "Pedro Nel Moreno Alvarez",
+  },
+  hobbies: [
+    "Astronomical sciences fan 🚀👨‍🚀",
+    "Filmaker🎥",
+    "BassPlayer🎸",
+    "Formula One Fan🏎",
+  ],
+};
