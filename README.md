@@ -1,6 +1,5 @@
 ### Hi there 👋👨‍💻
-
-![codetoimg-snippet](https://github.com/pdromoreno7/pdromoreno7/assets/72107810/9f51798a-a083-4023-bda9-1ad063ee00bc)
+![codetoimg-snippet (1)](https://github.com/pdromoreno7/pdromoreno7/assets/72107810/69c8a957-6a21-45ef-9620-2e64da41b712)
 
 
 <!--
