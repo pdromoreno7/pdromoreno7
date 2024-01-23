@@ -15,14 +15,13 @@
 
 <p>Connect with me on
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/ahmadshaikhk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/pedromorenodev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:ahmed.bilal575@gmail.com"
+<a target="_blank" href="mailto:pdromorenodev@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://twitter.com/ahmadshaikhk"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/pdromoreno"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+
 
 ![53590338-8AA0-4431-89D3-0C2BC4F4DEA7-min](https://github.com/pdromoreno7/pdromoreno7/assets/72107810/77815fe2-6c15-44b1-b0af-f01aa9f389c9)
 
